@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Movie Lover</string>
+    <string name="movie_poster">Movie Poster</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="most_popular">Most popular</string>
+    <string name="add_to_fav">Movie added to Favourites</string>
+    <string name="remove_from_fav">Movie removed from Favourites</string>
+    <string name="item_main">Main</string>
+    <string name="item_favourites">Favourites</string>
+    <string name="play_trailer">Play Trailer</string>
+    <string name="title">Title</string>
+    <string name="original_title">OriginalTitle</string>
+    <string name="rating">Rating</string>
+    <string name="release_date">Release Date</string>
+    <string name="description">Description</string>
+</resources>
