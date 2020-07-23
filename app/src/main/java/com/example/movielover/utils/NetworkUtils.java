@@ -34,7 +34,7 @@ public class NetworkUtils {
     private static final String PARAMS_PAGE = "page";
     private static final String PARAMS_MIN_VOTE_COUNT = "vote_count.gte";
 
-    private static final String API_KEY = "0203564519cdbacfe94e1bf61b695c46";
+    private static final String API_KEY = // "YOUR_API_KEY";
 
     private static final String SORT_BY_POPULARITY = "popularity.desc";
     private static final String SORT_BY_TOP_RATED = "vote_average.desc";
